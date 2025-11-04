@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "847a3f2206eb1c92",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dd385337e81214d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5161bb78465b513c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daed4db43a20fd56",
+    "type": "split",
+    "children": [
+      {
+        "id": "796be308ca8ecca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd9c567c52939f59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "9d85cdc94d11bb10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "43df0b6c89ea35df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fae1a46ea08b0738",
+    "type": "split",
+    "children": [
+      {
+        "id": "24593c120e7061d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6353a854c0607faa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "기타 추정 방법(MLE에 관련됨).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "기타 추정 방법(MLE에 관련됨) 의 백링크"
+            }
+          },
+          {
+            "id": "24f92fcc3dd69c7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "기타 추정 방법(MLE에 관련됨).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "기타 추정 방법(MLE에 관련됨) 의 나가는 링크"
+            }
+          },
+          {
+            "id": "53ecda225ff3b497",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "685d825e41218a63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "기타 추정 방법(MLE에 관련됨).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "기타 추정 방법(MLE에 관련됨) 의 개요"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "publish:변경사항 게재": false,
+      "workspaces:작업 공간 레이아웃 관리": false
+    }
+  },
+  "active": "5161bb78465b513c",
+  "lastOpenFiles": [
+    "확률론적 머신러닝 개념 정리/베이즈 통계학.md",
+    "확률론적 머신러닝 개념 정리/MAP (maximum a posterior estimation).md",
+    "확률론적 머신러닝 개념 정리/MLE.md",
+    "확률론적 머신러닝 개념 정리/Bayesian Rule(베이시안 규칙, 정리 기타등등).md",
+    "확률론적 머신러닝 개념 정리/정규화(Regularization).md",
+    "확률론적 머신러닝 개념 정리/ERM(경험적 위험 최소화).md",
+    "Ridge regression.md",
+    "확률론적 머신러닝.md",
+    "확률론적 머신러닝 개념 정리/회귀.md",
+    "확률론적 머신러닝 개념 정리/확률론적 머신러닝 - 확률.md",
+    "img/k-fold.png",
+    "확률론적 머신러닝 개념 정리/Parameter.md",
+    "확률론적 머신러닝 개념 정리/기타 정보들/Inverse Wishart.md",
+    "확률론적 머신러닝 개념 정리/기타 정보들",
+    "확률론적 머신러닝 개념 정리/분포.md",
+    "확률론적 머신러닝 개념 정리/기타 추정 방법(MLE에 관련됨), 온라인 재귀추정.md",
+    "확률론적 머신러닝 개념 정리/디랙 델타 함수(Dirac Delta).md",
+    "확률론적 머신러닝 개념 정리/공분산.md",
+    "ERM.md",
+    "확률론적 머신러닝 개념 정리/이동평균.md",
+    "확률론적 머신러닝 개념 정리",
+    "img/delta1.png",
+    "img/Empirical2.png",
+    "img/Empirical1.png",
+    "무제 1.base",
+    "무제.base",
+    "기타 추정 방법(MLE에 관련됨).md",
+    "img/Laplace.png",
+    "img/sigmoid.png",
+    "img/정규분포.png",
+    "img",
+    "img/손실함수그래프.png",
+    "손실함수 그래프.canvas",
+    "2025-09-23.md",
+    "create a link.md",
+    "환영합니다!.md",
+    "desktop.ini"
+  ]
+}
