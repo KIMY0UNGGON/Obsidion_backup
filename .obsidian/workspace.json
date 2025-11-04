@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/베이즈 통계학.md",
+                "file": "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/테스트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "베이즈 통계학"
+              "title": "테스트"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -160,21 +160,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
     }
   },
   "active": "fabf09a2e7abc096",
   "lastOpenFiles": [
+    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/디랙 델타 함수(Dirac Delta).md",
+    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/기타 추정 방법(MLE에 관련됨), 온라인 재귀추정.md",
+    "머신러닝 내용 정리/확률론적 머신러닝.md",
+    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/테스트.md",
+    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/베이즈 통계학.md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/Bayesian Rule(베이시안 규칙, 정리 기타등등).md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/정보이론.md",
     "머신러닝 내용 정리/img/negative_log_graph.png",
-    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/베이즈 통계학.md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/분포.md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/이동평균.md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/정규화(Regularization).md",
@@ -184,7 +188,6 @@
     "머신러닝 내용 정리/MLE.md",
     "머신러닝 내용 정리/Parameter.md",
     "머신러닝 내용 정리/ERM(경험적 위험 최소화).md",
-    "머신러닝 내용 정리/기타 추정 방법(MLE에 관련됨), 온라인 재귀추정.md",
-    "머신러닝 내용 정리/확률론적 머신러닝.md"
+    "머신러닝 내용 정리/기타 추정 방법(MLE에 관련됨), 온라인 재귀추정.md"
   ]
 }
