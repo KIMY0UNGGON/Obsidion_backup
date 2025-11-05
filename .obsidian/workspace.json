@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/테스트.md",
+                "file": "머신러닝 내용 정리/확률론적 머신러닝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "테스트"
+              "title": "확률론적 머신러닝"
             }
           }
         ]
