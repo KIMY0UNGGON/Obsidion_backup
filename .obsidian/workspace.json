@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "머신러닝 내용 정리/LatexTest용.md",
+                "file": "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/회귀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LatexTest용"
+              "title": "회귀"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "fabf09a2e7abc096",
   "lastOpenFiles": [
-    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/베이즈 통계학.md",
     "머신러닝 내용 정리/LatexTest용.md",
+    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/베이즈 통계학.md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/분포.md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/이동평균.md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/정규화(Regularization).md",
