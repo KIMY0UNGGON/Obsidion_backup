@@ -6,7 +6,9 @@ f = $x*x_2$ 일때 Gradient는 $[ df/dx ; df/dx_2]$
 
 f는 크기만 같는 스칼라 함수
 
-$\nabla$(nabla)길ㅎ
+$\nabla$(nabla, nabla, del 연산자)기호를 f에 붙히면 $\nabla$f 가 되면 gradient를 의미. (기울기 벡터인데)
+그라디언트는 크기와 방향을 갖는 벡터함수가 됨. 이 벡터함수의 방향은 함수 f의 크기가 가장 커지는 방향을 가리킴.
+ 즉, 항상 가파는 방향을 가리키게 됨
 
 
 Gradient는 항상 가파른 방향을 가리킴
