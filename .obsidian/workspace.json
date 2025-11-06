@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/회귀.md",
+                "file": "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/베이즈 통계학.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회귀"
+              "title": "베이즈 통계학"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "fabf09a2e7abc096",
   "lastOpenFiles": [
-    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/Bayesian Rule(베이시안 규칙, 정리 기타등등).md",
     "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/회귀.md",
+    "머신러닝 내용 정리/확률론적 머신러닝 개념 정리/Bayesian Rule(베이시안 규칙, 정리 기타등등).md",
     "머신러닝 내용 정리/img/선형회귀(2차함수).png",
     "머신러닝 내용 정리/img/선형회귀(비선형그래프).png",
     "머신러닝 내용 정리/LatexTest용.md",
