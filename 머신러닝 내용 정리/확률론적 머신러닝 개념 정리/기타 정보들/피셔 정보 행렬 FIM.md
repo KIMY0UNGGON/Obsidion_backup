@@ -24,4 +24,5 @@ MLE로 값을 추정할때 데이터의 수가 굉장히 많아지면 MLE로 추
 
 F는 Likelihood의 정보양을 측정. 파라미터 변화시에 Likelihood가 얼마나 민감한지를 측정한다.
 
-$\nabla l(\theta)$는 score function으로 $\frac{∂ℓ}{∂θ}$ 즉, l
+$\nabla l(\theta)$는 score function으로 $\frac{∂ℓ}{∂θ}$ 즉, log likelihood를 $\theta$로 편미분한값.
+
