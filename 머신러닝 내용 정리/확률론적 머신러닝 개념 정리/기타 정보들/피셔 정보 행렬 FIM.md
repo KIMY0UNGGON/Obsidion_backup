@@ -15,4 +15,7 @@ MLE로 값을 추정할때 데이터의 수가 굉장히 많아지면 MLE로 추
 즉 $\hat\theta \approx N(\theta^*, Var), Var=\frac{1}{N \times 정보}$
 
  FIM은 데이터가 Parameter를 얼마나 잘 결정하는지를 알아냄.
-   만약 정보가 많으면 FIM이 크고, 
+   만약 정보가 많으면 FIM이 크고, Parameter를 잘 결정한 것. -> 즉, Var(분산)이 작고 신뢰도가 높음
+   만약 정보가 적으면 FIM은 작고 Parameter가 애매함 -> 분산은 커지고, 신뢰도가 낮아짐. 불확실성이 높아짐.
+
+  
