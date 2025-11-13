@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "베이즈 통계학"
             }
+          },
+          {
+            "id": "eebe961a2f358805",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.10.3"
+            }
           }
         ],
         "stacked": true
