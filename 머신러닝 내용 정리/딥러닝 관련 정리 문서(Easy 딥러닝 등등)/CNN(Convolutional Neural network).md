@@ -64,7 +64,9 @@ img는 RGB $\times$ WIDTH $\times$ HEIGHT 이므로 filter인 h도 마찬가지�
 그래서 결과는 Cube형태가 됨.
 
 
-CNN에선 이 filter를 학습해서 우리가
+CNN에선 이 filter를 학습해서 우리가 따로 정해주지 않고, 이미지의 Feature를 잘 알려주는 filter를 학습함.
+
+
 
 ### 효율성을 위한 과정
 
