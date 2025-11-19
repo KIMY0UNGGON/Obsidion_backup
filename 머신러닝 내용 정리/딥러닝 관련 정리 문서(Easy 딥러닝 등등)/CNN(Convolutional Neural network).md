@@ -28,6 +28,10 @@ Covolutuion(합성곱) : 뒤집고 밀면서 곱하고 더했다(?) 아직 이�
 결과는 3x3행렬이 나오게 됨
 저렇게 이동하는 과정을 Shift라고 함. 즉 저 이미지 파일의 과정은 Shift를 해서 곱하고 더하는 과정.
 
+img는 RGB $\times$ WIDTH $\times$ HEIGHT 이므로 filter인 h도 마찬가지로 3차원.
+이렇게 곱하고 더하는 Convolution 과정을 거치면 차원이 하나 줄어들어 1로 됨. WIDTH $\time$
+
+
 <figure>
 <img src="img/cnn_filter.png">
 </figure>
