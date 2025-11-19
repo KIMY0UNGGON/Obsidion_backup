@@ -28,3 +28,10 @@ Covolutuion(합성곱) : 뒤집고 밀면서 곱하고 더했다(?) 아직 이�
 결과는 3x3행렬이 나오게 됨
 
 
+<figure>
+<img src="img/cnn_filter.png">
+</figure>
+
+x filter 같은 경우는 좌우의 차이가 크면 클수록 결과값이 커짐.
+만약 결과 값이 똑같으면 곱하고 더했을 때 값이 0이 되어  버림.
+
