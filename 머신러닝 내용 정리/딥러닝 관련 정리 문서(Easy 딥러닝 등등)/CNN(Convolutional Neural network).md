@@ -9,5 +9,8 @@
 
  fully-connected layer는 너무 비선형으로( 너무 복잡하고, 자세하게 ) 생각.
 
- 효율적이고 
+ 효율적이고 Overfit하지 않는 머신을 찾기 위해 탄생함. -> Convolutional로 구조를 바꾸자.
+ 조금은 융통성있는 뉴럴 네트워크를 만들자.
+
+Covolutuion(합성곱) : 
  
