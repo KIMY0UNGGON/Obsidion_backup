@@ -28,11 +28,7 @@ Covolutuion(합성곱) : 뒤집고 밀면서 곱하고 더했다(?) 아직 이�
 결과는 3x3행렬이 나오게 됨
 저렇게 이동하는 과정을 Shift라고 함. 즉 저 이미지 파일의 과정은 Shift를 해서 곱하고 더하는 과정.
 
-img는 RGB $\times$ WIDTH $\times$ HEIGHT 이므로 filter인 h도 마찬가지로 3차원.
-이렇게 곱하고 더하는 Convolution 과정을 거치면 차원이 하나 줄어들어 1로 됨.
-현재 사진에선 3 $\times$ 3 $\times$ 1 행렬이 되어 $3 \times 3$이 됨
 
-그런데 이런 filter의 개수가 여러개가 조
 
 
 <figure>
@@ -50,6 +46,23 @@ x,y필터를 통과시키면 윤곽을 알수가 있음.
 Convolution이라는 건 이미지의 특징을 뽑는 다는것. 그 특징들을 뽑아서 학습을 시키면 그냥 이미지를 통채로 집어넣은 것보다 효과적일 것이라고 기대해서 사용.
 
 image의 feature들을 뽑아서 입력값으로 넣어주면 overfit 문제를 해결할 수 있지 않을까 라고 나온게 CNN
+
+
+
+
+
+<figure>
+<img src="img/cnn_anime.gif">
+</figure>
+
+img는 RGB $\times$ WIDTH $\times$ HEIGHT 이므로 filter인 h도 마찬가지로 3차원.
+이렇게 곱하고 더하는 Convolution 과정을 거치면 차원이 하나 줄어들어 1로 됨.
+현재 사진에선 3 $\times$ 3 $\times$ 1 행렬이 되어 $3 \times 3$이 됨
+
+그런데 이런 filter의 개수가 여러개가 존재.
+예시로 코의 Feature만 뽑은 필터, 귀의 Feature만 뽑은 필터 등, 여러개의 Filter를 사용.
+그래서 결과는 Cube형태가 됨.
+
 
 ### 효율성을 위한 과정
 
