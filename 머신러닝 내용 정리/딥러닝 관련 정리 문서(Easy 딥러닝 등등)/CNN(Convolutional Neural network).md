@@ -18,3 +18,10 @@ Covolutuion(합성곱) : 뒤집고 밀면서 곱하고 더했다(?) 아직 이�
 <figure>
 <img src = "img/CNN_img.png">
 </figure>
+
+이 행렬 h를 x와 곱하고 더하고를 계속 반복함.
+
+
+<figure>
+<img src="img/cnn_anime.gif">
+</figure>

@@ -175,6 +175,8 @@
   },
   "active": "5161bb78465b513c",
   "lastOpenFiles": [
+    "img/cnn_anime.gif",
+    "img/merged.gif",
     "img/CNN_img.png",
     "딥러닝 관련 정리 문서(Easy 딥러닝 등등)/퍼셉트론.md",
     "딥러닝 관련 정리 문서(Easy 딥러닝 등등)/CNN(Convolutional Neural network).md",
@@ -214,8 +216,6 @@
     "무제 1.base",
     "무제.base",
     "img/Laplace.png",
-    "img/sigmoid.png",
-    "img/정규분포.png",
     "img",
     "손실함수 그래프.canvas",
     "desktop.ini"
