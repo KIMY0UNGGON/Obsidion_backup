@@ -185,8 +185,9 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "5161bb78465b513c",
+  "active": "cd9c567c52939f59",
   "lastOpenFiles": [
+    "딥러닝 관련 정리 문서(Easy 딥러닝 등등)",
     "확률론적 머신러닝 개념 정리/회귀.md",
     "확률론적 머신러닝 개념 정리/퍼셉트론.md",
     "img/선형회귀(2차함수) - 복사본.png",
@@ -223,7 +224,6 @@
     "img/Empirical1.png",
     "무제 1.base",
     "무제.base",
-    "기타 추정 방법(MLE에 관련됨).md",
     "img/Laplace.png",
     "img/sigmoid.png",
     "img/정규분포.png",
