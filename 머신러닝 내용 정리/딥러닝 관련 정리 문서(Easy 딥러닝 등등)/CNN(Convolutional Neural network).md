@@ -26,7 +26,7 @@ Covolutuion(합성곱) : 뒤집고 밀면서 곱하고 더했다(?) 아직 이�
 <img src="img/cnn_anime.gif">
 </figure>
 결과는 3x3행렬이 나오게 됨
-
+저렇게 이동하는 과정을 Shift라고 함. 즉 저 이미지 파일의 과정은 Shift에서 곱하고 더하는 과정.
 
 <figure>
 <img src="img/cnn_filter.png">
