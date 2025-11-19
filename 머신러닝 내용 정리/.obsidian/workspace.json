@@ -175,6 +175,7 @@
   },
   "active": "5161bb78465b513c",
   "lastOpenFiles": [
+    "img/CNN_img.png",
     "딥러닝 관련 정리 문서(Easy 딥러닝 등등)/퍼셉트론.md",
     "딥러닝 관련 정리 문서(Easy 딥러닝 등등)/CNN(Convolutional Neural network).md",
     "딥러닝 관련 정리 문서(Easy 딥러닝 등등)",
@@ -206,7 +207,6 @@
     "확률론적 머신러닝 개념 정리/기타 정보들",
     "확률론적 머신러닝 개념 정리/기타 추정 방법(MLE에 관련됨), 온라인 재귀추정.md",
     "확률론적 머신러닝 개념 정리/공분산.md",
-    "ERM.md",
     "확률론적 머신러닝 개념 정리",
     "img/delta1.png",
     "img/Empirical2.png",

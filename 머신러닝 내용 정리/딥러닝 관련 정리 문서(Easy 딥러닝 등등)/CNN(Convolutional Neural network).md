@@ -14,4 +14,7 @@
 
 Covolutuion(합성곱) : 뒤집고 밀면서 곱하고 더했다(?) 아직 이해 못함
  데이터 X가 있을때 어떤 행렬 h가 있다고 가정.
- 
+
+<figure>
+<img src = "img/"
+</figure>
