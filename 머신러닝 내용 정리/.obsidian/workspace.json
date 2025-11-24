@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시험관련/확통 문제.md",
+                "file": "시험관련/잘 모르겠는 문제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "확통 문제"
+              "title": "잘 모르겠는 문제"
             }
           }
         ],
@@ -175,8 +175,8 @@
   },
   "active": "3ed756942fd72aba",
   "lastOpenFiles": [
-    "시험관련/잘 모르겠는 문제.md",
     "시험관련/확통 문제.md",
+    "시험관련/잘 모르겠는 문제.md",
     "확률론적 머신러닝 개념 정리/빈도주의 통계학.md",
     "시험관련",
     "확률론적 머신러닝 개념 정리/베이즈 통계학.md",
