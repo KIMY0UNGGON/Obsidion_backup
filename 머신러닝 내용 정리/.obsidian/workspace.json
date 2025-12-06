@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "time/무제.md",
                 "mode": "source",
                 "source": false
               },
@@ -176,7 +176,8 @@
   },
   "active": "115d9a0f424297fd",
   "lastOpenFiles": [
-    "무제.md",
+    "time",
+    "time/무제.md",
     "2025-12-06.md",
     "무제 1.base",
     "무제.base",
@@ -213,7 +214,6 @@
     "img/선형회귀 아이스크림 산점도.png",
     "확률론적 머신러닝 개념 정리/테스트.md",
     "확률론적 머신러닝 개념 정리/MAP (maximum a posterior estimation).md",
-    "확률론적 머신러닝 개념 정리/MLE.md",
     "img/k-fold.png",
     "확률론적 머신러닝 개념 정리/기타 정보들",
     "확률론적 머신러닝 개념 정리",
